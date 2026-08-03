@@ -37,14 +37,26 @@ We are building installable Klinko Skills that bring audience and market intelli
 
 Each Skill is designed around a clear job — audience discovery, persona building, opportunity analysis, positioning, content strategy, and more — while sharing the same Klinko intelligence layer.
 
-### Skills coming first
+## Klinko Skills
 
-- Audience Finder
-- Buyer Persona Builder
-- Content Strategy Builder
-- Viral Pattern Analyzer
+All Klinko Skills use the same intelligence layer and secure API. Each Skill turns a different market question into a focused Agent workflow.
 
-More Skills and public installation guides will be published in this organization.
+| Skill | What it does |
+| --- | --- |
+| **Audience Finder** | Finds and prioritizes the audience segments most worth serving. |
+| **Niche Audience Discovery** | Uncovers overlooked niches, emerging segments, and underserved communities. |
+| **Audience Comparator** | Compares candidate audiences by demand, motivation, opportunity, and reachability. |
+| **Market Opportunity Analyst** | Ranks market opportunities and recommends what deserves validation first. |
+| **Startup Idea Validator** | Tests a startup idea against audience needs, market gaps, and buying motivation. |
+| **Early Adopter Finder** | Identifies the people most likely to try, adopt, and advocate for a new offer. |
+| **Buyer Persona Builder** | Builds evidence-led personas around needs, triggers, objections, and behavior. |
+| **Customer Pain Point Analyst** | Finds recurring customer problems and explains which ones create real demand. |
+| **Positioning Strategist** | Turns market gaps and customer language into sharper positioning and messaging. |
+| **Content Strategy Builder** | Prioritizes themes, angles, and formats that match audience demand. |
+| **Creative Brief Generator** | Converts audience intelligence into a clear, actionable creative brief. |
+| **Viral Pattern Analyzer** | Identifies repeatable patterns behind high-performing and fast-spreading content. |
+
+Each Skill will have its own public repository and installation guide in this organization.
 
 ## Built for teams creating the next market
 
