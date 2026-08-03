@@ -33,7 +33,7 @@ Klinko 把分散的市場資訊轉化為有優先順序的判斷：**先服務�
 
 ## Klinko 與 AI Agent
 
-我們正在開發可安裝的 Klinko Skills，透過一套安全 API，把圈層和市場洞察帶入 **Codex、Claude Code、Coze、Kimi 以及其他支援 Skill 的 Agent**。
+我們正在開發可安裝的 Klinko Skills，透過一套安全 API，把圈層和市場洞察帶入 **Codex 和 Claude Code**。
 
 每個 Skill 聚焦一個明確任務，例如圈層發現、使用者人物誌、機會分析、產品定位和內容策略；底層共享同一套 Klinko 智慧能力。
 
