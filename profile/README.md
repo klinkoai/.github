@@ -33,7 +33,7 @@ Klinko turns fragmented market intelligence into a ranked decision: **who to ser
 
 ## Klinko for AI agents
 
-We are building installable Klinko Skills that bring audience and market intelligence into **Codex, Claude Code, Coze, Kimi, and other skill-enabled agents** through one secure API.
+We are building installable Klinko Skills that bring audience and market intelligence into **Codex and Claude Code** through one secure API.
 
 Each Skill is designed around a clear job — audience discovery, persona building, opportunity analysis, positioning, content strategy, and more — while sharing the same Klinko intelligence layer.
 
