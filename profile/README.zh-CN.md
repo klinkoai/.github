@@ -37,14 +37,26 @@ Klinko 把分散的市场信息转化为有优先级的判断：**先服务谁�
 
 每个 Skill 聚焦一个明确任务，例如圈层发现、用户画像、机会分析、产品定位和内容策略；底层共享同一套 Klinko 智能能力。
 
-### 首批 Skills
+## Klinko Skills
 
-- Audience Finder
-- Buyer Persona Builder
-- Content Strategy Builder
-- Viral Pattern Analyzer
+所有 Klinko Skills 共用同一套智能能力和安全 API。每个 Skill 针对一种市场问题，提供一个清晰、可执行的 Agent 工作流。
 
-更多 Skills 和公开安装文档会陆续发布在这个 Organization 中。
+| Skill | 能做什么 |
+| --- | --- |
+| **Audience Finder** | 发现并排序最值得优先服务的目标圈层。 |
+| **Niche Audience Discovery** | 找到容易被忽略的细分人群、新兴圈层和未被满足的社群。 |
+| **Audience Comparator** | 从需求、动机、机会和可触达性比较多个候选圈层。 |
+| **Market Opportunity Analyst** | 排序市场机会，判断什么最值得优先验证。 |
+| **Startup Idea Validator** | 根据用户需求、市场缺口和购买动机验证创业想法。 |
+| **Early Adopter Finder** | 找到最可能尝试、采用并主动推荐新产品的人群。 |
+| **Buyer Persona Builder** | 围绕需求、触发因素、顾虑和行为构建买家画像。 |
+| **Customer Pain Point Analyst** | 发现反复出现的客户问题，并判断哪些问题正在形成真实需求。 |
+| **Positioning Strategist** | 把市场缺口和消费者语言转化为更清晰的定位与信息表达。 |
+| **Content Strategy Builder** | 根据圈层需求排序内容主题、角度和形式。 |
+| **Creative Brief Generator** | 把圈层洞察转化为清晰、可执行的创意简报。 |
+| **Viral Pattern Analyzer** | 识别高表现和快速传播内容背后可复用的模式。 |
+
+每个 Skill 都会在这个 Organization 中拥有独立的公开仓库和安装说明。
 
 ## 为创造下一个市场的团队而做
 
